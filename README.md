@@ -22,7 +22,7 @@ To import collection file into Postman
 5. Click "Open"
 
 
-### To execute a collection in Postman
+### Execute a collection in Postman
 
 To execute a collection in Postman
 
