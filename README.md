@@ -1,5 +1,5 @@
 # reqres-postman-collection
-This repo consists API testing of Reqres Endpoints
+This repository contains API testing of Reqres Endpoints using Postman.
 
 ## Project Setup
 
